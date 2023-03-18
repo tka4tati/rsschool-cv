@@ -1,7 +1,7 @@
 #                                 **Tkachenko Tetiana**
 ##                                *Front-end Developer*
 
-![Alt- my photo](path to the file "");
+![My photo](/images/myphoto.jpg);
 
 -------------------------------------------------------------------------------------------
 
