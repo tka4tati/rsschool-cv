@@ -1,5 +1,5 @@
 #                                 **Tkachenko Tetiana**
-###                                *Front-end Developer*
+###                                *Frontend Developer*
 
 ![My photo](/images/myphoto.jpg);
 
@@ -25,24 +25,6 @@ I am not afraid of change, and therefore, after five and a half years of studyin
 >*Motivation + perseverance + desire to develop + craving for new knowledge + love for development + sense of responsibility for the task done = Real Developer.*
 
 -----------------------------------------------------------------------
-
-### **Work Experience**
-
-1. Participation in a real charity project for the organization "A-Help", which was provided by the Sigma Software University. Project team - 6 people. Website development in React JS using the Bootstrap framework and various libraries, such as react-router, react-hook-form, etc. Programs I also worked with during the project: Google Meet, Jira, Confluence, Miro, Figma, GitHub.
-[Link to my project part](https://github.com/tka4tati/a--help--.git)
-
--------------------------------------------------------------------------------------------
-
-### **Education**
-1. Master, specialty Law 081, National Law University named after Yaroslav the Wise, Faculty of Justice;
-2. Participant of the IT Generation program from the Ministry of Digital Policy. Sigma Software University student (5 months of study):
-    - Project "About Me" (using HTML and CSS). [GitHub Link](https://github.com/tka4tati/DZ1.git);
-    - Project "Jadoo: travel agency" (using HTML and SCSS preprocessor). [GitHub Link](https://github.com/tka4tati/DZ2.git);
-    - Final Project "Decbase: interior design company" (using React JS and SCSS preprocessor, bootstrap framework, libraries: react-router , react-scroll, react-hook-form, react-idle-timer). [GitHub Link](https://github.com/tka4tati/Final-project.git);
-3. Student RS School:
-    - Task CSS Bayan (using HTML and CSS). [GitHub Link](https://github.com/tka4tati/cssBayan.git);
-
------------------------------------------------------------------------------------
 
 ### **Skills**
 
@@ -103,7 +85,26 @@ export const TwentyBlock = () => {
   )
 }
 ```
+
 *******************************************************
+
+### **Work Experience**
+
+1. Participation in a real charity project for the organization "A-Help", which was provided by the Sigma Software University. Project team - 6 people. Website development in React JS using the Bootstrap framework and various libraries, such as react-router, react-hook-form, etc. Programs I also worked with during the project: Google Meet, Jira, Confluence, Miro, Figma, GitHub.
+[Link to my project part](https://github.com/tka4tati/a--help--.git)
+
+-------------------------------------------------------------------------------------------
+
+### **Education**
+1. National Law University named after Yaroslav the Wise, Faculty of Justice - Master degree in Law (2017-2023);
+2. Participant of the IT Generation program from the Ministry of Digital Policy. Sigma Software University student (October 2022 - February 2023):
+    - Project "About Me" (using HTML and CSS). [GitHub Link](https://github.com/tka4tati/DZ1.git);
+    - Project "Jadoo: travel agency" (using HTML and SCSS preprocessor). [GitHub Link](https://github.com/tka4tati/DZ2.git);
+    - Final Project "Decbase: interior design company" (using React JS and SCSS preprocessor, bootstrap framework, libraries: react-router , react-scroll, react-hook-form, react-idle-timer). [GitHub Link](https://github.com/tka4tati/Final-project.git);
+3. Student at the RS School (March 2023 - now):
+    - Task CSS Bayan (using HTML and CSS). [GitHub Link](https://github.com/tka4tati/cssBayan.git);
+
+-----------------------------------------------------------------------------------
 
 ### **Lenguages**
 
