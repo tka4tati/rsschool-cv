@@ -103,3 +103,10 @@ export const TwentyBlock = () => {
   )
 }
 ```
+*******************************************************
+
+### **Lenguages**
+
+1. English (B2): [Certificate](https://drive.google.com/file/d/1LT1B8KIk-7VqmwFopjLrBA_mvAc294Ud/view?usp=sharing);
+2. Ukrainian: Native;
+3. Russian: Fluent; 
