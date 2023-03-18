@@ -4,7 +4,7 @@
 
 ![Alt- my photo](path to the file "");
 
-===========================================================================================
+-------------------------------------------------------------------------------------------
 
 ### **Contacts:**
     - Telegram - @tatatanyat ;
@@ -13,7 +13,7 @@
     - GitHub - [@tka4tati] (https://github.com/tka4tati)
     - Phone Number - +380996651999
 
-===========================================================================================
+-------------------------------------------------------------------------------------------
 
 ### **About Me**
 
@@ -32,7 +32,7 @@ I am not afraid of change, and therefore, after five and a half years of studyin
 1. Participation in a real charity project for the organization "A-Help", which was provided by the Sigma Software University. Project team - 6 people. Website development in React JS using the Bootstrap framework and various libraries, such as react-router, react-hook-form, etc. Programs I also worked with during the project: Google Meet, Jira, Confluence, Miro, Figma, GitHub.
 [Link to my project part] (https://github.com/tka4tati/a--help--.git)
 
-===========================================================================================
+-------------------------------------------------------------------------------------------
 
 ### **Education**
 1. Master, specialty Law 081, National Law University named after Yaroslav the Wise, Faculty of Justice;
