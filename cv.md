@@ -8,8 +8,9 @@
 ### **Contacts:**
 - Telegram - [@tatatanyat](https://t.me/tatatanyat) ;
 - Instagram - [@tkchnk0](https://www.instagram.com/tkchnk0/); 
-- Linkedin - [Tkachenko Tetiana](https://www.linkedin.com/in/%D1%82%D0%B0%D0%BD%D1%8F-%D1%82%D0%BA%D0%B0%D1%87%D0%B5%D0%BD%D0%BA%D0%BE-619890269/)
-- GitHub - [@tka4tati](https://github.com/tka4tati)
+- Linkedin - [Tkachenko Tetiana](https://www.linkedin.com/in/%D1%82%D0%B0%D0%BD%D1%8F-%D1%82%D0%BA%D0%B0%D1%87%D0%B5%D0%BD%D0%BA%D0%BE-619890269/);
+- GitHub - [@tka4tati](https://github.com/tka4tati);
+- Discord - [Tetiana Tkachenko (@tka4tati)](tka4tati#6049);
 - Phone Number - +380996651999.
 
 -------------------------------------------------------------------------------------------
@@ -39,4 +40,48 @@ I am not afraid of change, and therefore, after five and a half years of studyin
     - Final Project "Decbase: interior design company" (using React JS and SCSS preprocessor, bootstrap framework, libraries: react-router , react-scroll, react-hook-form, react-idle-timer). [GitHub Link](https://github.com/tka4tati/Final-project.git);
 3. Student RS School:
     - Task CSS Bayan (using HTML and CSS). [GitHub Link](https://github.com/tka4tati/cssBayan.git);
+
+-----------------------------------------------------------------------------------
+
+### **Skills**
+
+1. Programming Languages/Technologies: 
+    - JavaScript;
+    - JSON; 
+    - HTML;
+    - CSS;
+    - SCSS;
+    - SASS.
+
+2. Frameworks/Libraries:
+    - ReactJS;
+    - Bootstrap;
+    - react-router;
+    - react-hook-form.
+
+3. Development tools:
+    - Visual Studio Code;
+    - Sublime.
+
+4. Methodologies:
+    - Waterfall;
+    - Agile;
+    - Scrum;
+    - Kanban;
+    - BEM.
+
+5. Operating Systems:
+    - Microsoft Windows.
+
+6. Version Control Systems:
+    - Git.
+
+7. Hosting Web-services:
+    - GitHub;
+    - Netlify.
+
+8. Other services:
+    - Figma;
+    - Jira.
+
 
