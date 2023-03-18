@@ -10,7 +10,7 @@
 - Instagram - [@tkchnk0](https://www.instagram.com/tkchnk0/); 
 - Linkedin - [Tkachenko Tetiana](https://www.linkedin.com/in/%D1%82%D0%B0%D0%BD%D1%8F-%D1%82%D0%BA%D0%B0%D1%87%D0%B5%D0%BD%D0%BA%D0%BE-619890269/);
 - GitHub - [@tka4tati](https://github.com/tka4tati);
-- Discord - [Tetiana Tkachenko (@tka4tati)](tka4tati#6049);
+- Discord - [Tetiana Tkachenko (@tka4tati)](https://discord.com/channels/@tka4tati#6049);
 - Phone Number - +380996651999.
 
 -------------------------------------------------------------------------------------------
