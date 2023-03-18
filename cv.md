@@ -1,5 +1,4 @@
 #                                 **Tkachenko Tetiana**
-
 ##                                *Front-end Developer*
 
 ![Alt- my photo](path to the file "");
@@ -19,13 +18,9 @@
 
 I am not afraid of change, and therefore, after five and a half years of studying at a law school, I set a new goal for myself - to become a Frontend Developer, and for a year now I have been successfully moving towards my goal. I improve my knowledge in web development every day and I'm not going to stop. 
 
-******************************************************
-
 #### **The formula of my work:**
 
 >*Motivation + perseverance + desire to develop + craving for new knowledge + love for development + sense of responsibility for the task done = Real Developer.*
-
-******************************************************
 
 ### **Work Experience**
 
